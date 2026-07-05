@@ -31,6 +31,9 @@ climbed to 34% by 2015 while annual volume grew about 12x and rates barely
 moved. The losses came from lending standards slipping during fast growth, not
 from crisis-era loans.
 
+![Defaults by vintage](charts/defaults_by_vintage.png)
+
+
 **Caveats.** I only used completed loans, since loans still marked current in
 2018 haven't had time to default. That's also why the vintage view stops at
 2015 (later cohorts hadn't finished and would skew toward early defaults).
