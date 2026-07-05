@@ -7,7 +7,7 @@ losses, and where should a lender tighten or expand?
 The data is 1.35M completed LendingClub loans from 2007-2018, about $18.5B in
 funded principal, loaded into Snowflake.
 
-**Short answer: NO!** Net return per dollar lent falls from +5.4% for grade A
+**Short answer: No!** Net return per dollar lent falls from +5.4% for grade A
 to -8.7% for grade G. Every grade below D lost money even at interest rates
 near 28%. Exiting the unprofitable segments (16% of volume, $78M in losses)
 would have lifted portfolio return from 3.1% to 4.2%.
